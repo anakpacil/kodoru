@@ -5,7 +5,8 @@ from selenium.webdriver.support.ui import Select
 import json, os, unittest
 
 
-class OCScraper(unittest.TestCase):
+class Kodoru(unittest.TestCase):
+    NAME = 'kodoru'
     STRINGS = {
         "id": {
             "fac": "Fakultas",
@@ -19,7 +20,7 @@ class OCScraper(unittest.TestCase):
 
     def setUp(self):
         self.driver = webdriver.Chrome()
-        self.driver.implicitly_wait(30)
+        self.driver.implicitly_wait(3)
         self.base_url = "https://academic.ui.ac.id/"
         self.verificationErrors = []
 
@@ -43,14 +44,14 @@ class OCScraper(unittest.TestCase):
             )
 
         driver.get(self.base_url + "/main/Schedule/IndexOthers")
-        faculty_dropdown = select_dropdown(OCScraper.STRINGS[language]["fac"])
+        faculty_dropdown = select_dropdown(Kodoru.STRINGS[language]["fac"])
 
         faculties = [faculty.text for faculty in faculty_dropdown.options][1:]
 
         for faculty in faculties:
-            faculty_dropdown = select_dropdown(OCScraper.STRINGS[language]["fac"])
+            faculty_dropdown = select_dropdown(Kodoru.STRINGS[language]["fac"])
             faculty_dropdown.select_by_visible_text(faculty)
-            program_dropdown = select_dropdown(OCScraper.STRINGS[language]["maj"])
+            program_dropdown = select_dropdown(Kodoru.STRINGS[language]["maj"])
 
             for program in program_dropdown.options[1:]:
                 organization_code, program_name = program.get_attribute('value'), program.text
@@ -66,7 +67,7 @@ class OCScraper(unittest.TestCase):
         return data
 
     def test_get_data_from_siak_ng(self):
-        data = {lang: {} for lang in OCScraper.STRINGS}
+        data = {lang: {} for lang in Kodoru.STRINGS}
         driver = self.driver
         self.authenticate()
 
@@ -76,8 +77,10 @@ class OCScraper(unittest.TestCase):
 
         driver.get(self.base_url + 'main/Authentication/Logout')
 
-        write = {"org_code.json": data}
-        write.update({"org_code_" + lang + ".json": data[lang] for lang in OCScraper.STRINGS})
+        write = {Kodoru.NAME + ".json": data}
+        write.update({
+            Kodoru.NAME + "_" + lang + ".json": data[lang] for lang in Kodoru.STRINGS
+        })
         for file_name, dic in write.items():
             with open(file_name, "w") as output:
                 print(json.dumps(dic, indent=2), file=output)

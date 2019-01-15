@@ -25,18 +25,18 @@ seperti berikut.
   beserta [ChromeDriver][chromedriver].
 - Atur *environment variable* `UI_USERNAME` dan `UI_PASSWORD` sesuai
   dengan nama pengguna dan kata sandi akun UI Anda, atau ubah
-  `username` dan `password` yang ada di dalam [`orgcode.py`][orgcode].
+  `username` dan `password` yang ada di dalam [`kodoru.py`][kodoru-py].
 
 - Jalankan perintah berikut di terminal atau *command prompt*.
 
 ```shell
-$ python orgcode.py
+$ python kodoru.py
 ```
 
 - Tunggu hingga selesai dan hasil akan muncul berupa tiga berkas berikut.
-    - `org_code_id.json`: Kode organisasi dalam bahasa Indonesia.
-    - `org_code_en.json`: Kode organisasi dalam bahasa Inggris.
-    - `org_code.json`: Gabungan kedua berkas di atas.
+    - [`kodoru_id.json`][kodoru_id]: Kode organisasi dalam bahasa Indonesia.
+    - [`kodoru_en.json`][kodoru_en]: Kode organisasi dalam bahasa Inggris.
+    - [`kodoru.json`][kodoru-json]: Gabungan kedua berkas di atas.
 
 Jika Anda hanya tertarik pada data hasilnya, silakan lihat direktori
 [`dump`][dump].
@@ -49,6 +49,9 @@ Jika Anda hanya tertarik pada data hasilnya, silakan lihat direktori
 [katalon]: https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid
 [selenium]: https://pypi.org/project/selenium
 [chromedriver]: http://chromedriver.chromium.org
-[orgcode]: orgcode.py#L44
+[kodoru-py]: kodoru.py#L44
+[kodoru_id]: dump/kodoru_id.json
+[kodoru_en]: dump/kodoru_en.json
+[kodoru-json]: dump/kodoru.json
 [dump]: dump/
 [laymonage]: https://github.com/laymonage
