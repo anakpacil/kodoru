@@ -1,0 +1,1927 @@
+{
+  "37.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Fisioterapi",
+    "educational_program": "D3"
+  },
+  "38.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Okupasi Terapi",
+    "educational_program": "D3"
+  },
+  "01.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Perumahsakitan",
+    "educational_program": "D3"
+  },
+  "02.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Rehabilitasi Medik",
+    "educational_program": "D3"
+  },
+  "03.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Ilmu Gizi",
+    "educational_program": "D4"
+  },
+  "04.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Pendidikan Dokter",
+    "educational_program": "S1 Reguler"
+  },
+  "05.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Pendidikan Dokter",
+    "educational_program": "S1 Kls Internasional"
+  },
+  "06.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Profesi Dokter",
+    "educational_program": "Profesi"
+  },
+  "42.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Pendidikan Dokter",
+    "educational_program": "Profesi Kls Internasional"
+  },
+  "47.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Akupunktur Medik",
+    "educational_program": "Spesialis 1"
+  },
+  "13.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Anestesiologi",
+    "educational_program": "Spesialis 1"
+  },
+  "41.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Bedah Toraks Kardiovaskular",
+    "educational_program": "Spesialis 1"
+  },
+  "21.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Dermatologi dan Venereologi",
+    "educational_program": "Spesialis 1"
+  },
+  "36.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Farmakologi Klinik",
+    "educational_program": "Spesialis 1"
+  },
+  "14.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Ilmu Bedah",
+    "educational_program": "Spesialis 1"
+  },
+  "29.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Ilmu Bedah Orthopaedi",
+    "educational_program": "Spesialis 1"
+  },
+  "33.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Ilmu Bedah Plastik",
+    "educational_program": "Spesialis 1"
+  },
+  "31.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Ilmu Bedah Saraf",
+    "educational_program": "Spesialis 1"
+  },
+  "45.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Ilmu Gizi Klinik",
+    "educational_program": "Spesialis 1"
+  },
+  "32.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Ilmu Kedokteran Fisik dan Rehabilitasi",
+    "educational_program": "Spesialis 1"
+  },
+  "26.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Ilmu Kedokteran Forensik dan Medikolegal",
+    "educational_program": "Spesialis 1"
+  },
+  "19.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Ilmu Kedokteran Jiwa",
+    "educational_program": "Spesialis 1"
+  },
+  "34.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Ilmu Kedokteran Olah Raga",
+    "educational_program": "Spesialis 1"
+  },
+  "16.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Ilmu Kesehatan Anak",
+    "educational_program": "Spesialis 1"
+  },
+  "20.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Ilmu Kesehatan Mata",
+    "educational_program": "Spesialis 1"
+  },
+  "15.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Ilmu Penyakit Dalam",
+    "educational_program": "Spesialis 1"
+  },
+  "23.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Ilmu Penyakit Jantung dan Pembuluh Darah",
+    "educational_program": "Spesialis 1"
+  },
+  "18.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Ilmu Penyakit Saraf",
+    "educational_program": "Spesialis 1"
+  },
+  "22.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Ilmu Penyakit Telinga, Hidung dan Tenggorok",
+    "educational_program": "Spesialis 1"
+  },
+  "39.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Kedokteran Okupasi",
+    "educational_program": "Spesialis 1"
+  },
+  "44.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Kedokteran Penerbangan",
+    "educational_program": "Spesialis 1"
+  },
+  "35.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Mikrobiologi Klinik",
+    "educational_program": "Spesialis 1"
+  },
+  "17.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Obstetri dan Ginekologi",
+    "educational_program": "Spesialis 1"
+  },
+  "43.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Onkologi Radiasi",
+    "educational_program": "Spesialis 1"
+  },
+  "46.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Parasitologi Klinik",
+    "educational_program": "Spesialis 1"
+  },
+  "27.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Patologi Anatomik",
+    "educational_program": "Spesialis 1"
+  },
+  "28.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Patologi Klinik",
+    "educational_program": "Spesialis 1"
+  },
+  "24.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Pulmonologi dan Ilmu Kedokteran Respirasi",
+    "educational_program": "Spesialis 1"
+  },
+  "25.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Radiologi",
+    "educational_program": "Spesialis 1"
+  },
+  "30.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Urologi",
+    "educational_program": "Spesialis 1"
+  },
+  "54.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Anestesiologi dan Terapi Intensif",
+    "educational_program": "Spesialis 2"
+  },
+  "51.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Ilmu Bedah",
+    "educational_program": "Spesialis 2"
+  },
+  "50.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Ilmu Kesehatan Anak",
+    "educational_program": "Spesialis 2"
+  },
+  "48.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Ilmu Penyakit Dalam",
+    "educational_program": "Spesialis 2"
+  },
+  "53.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Kedokteran Jiwa",
+    "educational_program": "Spesialis 2"
+  },
+  "52.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Obstetri dan Ginekologi",
+    "educational_program": "Spesialis 2"
+  },
+  "07.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Ilmu Biomedik",
+    "educational_program": "S2"
+  },
+  "08.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Ilmu Gizi",
+    "educational_program": "S2"
+  },
+  "09.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Kedokteran Kerja",
+    "educational_program": "S2"
+  },
+  "49.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Kedokteran Klinis",
+    "educational_program": "S2"
+  },
+  "40.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Pendidikan Kedokteran",
+    "educational_program": "S2"
+  },
+  "10.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Ilmu Biomedik",
+    "educational_program": "S3"
+  },
+  "11.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Ilmu Gizi",
+    "educational_program": "S3"
+  },
+  "12.00.01.01": {
+    "faculty": "Kedokteran",
+    "study_program": "Ilmu Kedokteran",
+    "educational_program": "S3"
+  },
+  "01.00.02.01": {
+    "faculty": "Kedokteran Gigi",
+    "study_program": "Pendidikan Dokter Gigi",
+    "educational_program": "S1 Reguler"
+  },
+  "13.00.02.01": {
+    "faculty": "Kedokteran Gigi",
+    "study_program": "Pendidikan Dokter Gigi",
+    "educational_program": "S1 Reguler"
+  },
+  "02.00.02.01": {
+    "faculty": "Kedokteran Gigi",
+    "study_program": "Pendidikan Dokter Gigi",
+    "educational_program": "Profesi"
+  },
+  "06.00.02.01": {
+    "faculty": "Kedokteran Gigi",
+    "study_program": "Ilmu Bedah Mulut",
+    "educational_program": "Spesialis 1"
+  },
+  "07.00.02.01": {
+    "faculty": "Kedokteran Gigi",
+    "study_program": "Ilmu Kedokteran Gigi Anak",
+    "educational_program": "Spesialis 1"
+  },
+  "08.00.02.01": {
+    "faculty": "Kedokteran Gigi",
+    "study_program": "Ilmu Konservasi Gigi",
+    "educational_program": "Spesialis 1"
+  },
+  "09.00.02.01": {
+    "faculty": "Kedokteran Gigi",
+    "study_program": "Ilmu Penyakit Mulut",
+    "educational_program": "Spesialis 1"
+  },
+  "10.00.02.01": {
+    "faculty": "Kedokteran Gigi",
+    "study_program": "Ortodonsia",
+    "educational_program": "Spesialis 1"
+  },
+  "11.00.02.01": {
+    "faculty": "Kedokteran Gigi",
+    "study_program": "Periodonsia",
+    "educational_program": "Spesialis 1"
+  },
+  "12.00.02.01": {
+    "faculty": "Kedokteran Gigi",
+    "study_program": "Prostodonsia",
+    "educational_program": "Spesialis 1"
+  },
+  "03.00.02.01": {
+    "faculty": "Kedokteran Gigi",
+    "study_program": "Ilmu Kedokteran Gigi Dasar",
+    "educational_program": "S2"
+  },
+  "04.00.02.01": {
+    "faculty": "Kedokteran Gigi",
+    "study_program": "Ilmu Kedokteran Gigi Komunitas",
+    "educational_program": "S2"
+  },
+  "05.00.02.01": {
+    "faculty": "Kedokteran Gigi",
+    "study_program": "Ilmu Kedokteran Gigi",
+    "educational_program": "S3"
+  },
+  "01.05.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Farmasi Rumah Sakit dan Distribusi Pemasaran",
+    "educational_program": "D3"
+  },
+  "01.02.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Fisika Instrumentasi",
+    "educational_program": "D3"
+  },
+  "01.03.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Kimia Terapan",
+    "educational_program": "D3"
+  },
+  "01.04.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Biologi",
+    "educational_program": "S1 Reguler"
+  },
+  "02.05.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Farmasi",
+    "educational_program": "S1 Reguler"
+  },
+  "02.02.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Fisika",
+    "educational_program": "S1 Reguler"
+  },
+  "06.02.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Geofisika",
+    "educational_program": "S1 Reguler"
+  },
+  "01.06.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Geografi",
+    "educational_program": "S1 Reguler"
+  },
+  "07.02.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Geologi",
+    "educational_program": "S1 Reguler"
+  },
+  "05.01.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Ilmu Aktuaria",
+    "educational_program": "S1 Reguler"
+  },
+  "02.03.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Kimia",
+    "educational_program": "S1 Reguler"
+  },
+  "01.01.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Matematika",
+    "educational_program": "S1 Reguler"
+  },
+  "04.01.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Statistika",
+    "educational_program": "S1 Reguler"
+  },
+  "05.04.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Biologi",
+    "educational_program": "S1 Paralel"
+  },
+  "06.05.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Farmasi",
+    "educational_program": "S1 Paralel"
+  },
+  "05.02.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Fisika",
+    "educational_program": "S1 Paralel"
+  },
+  "09.02.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Geofisika",
+    "educational_program": "S1 Paralel"
+  },
+  "05.06.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Geografi",
+    "educational_program": "S1 Paralel"
+  },
+  "10.02.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Geologi",
+    "educational_program": "S1 Paralel"
+  },
+  "06.03.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Kimia",
+    "educational_program": "S1 Paralel"
+  },
+  "03.01.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Matematika",
+    "educational_program": "S1 Paralel"
+  },
+  "06.01.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Statistika",
+    "educational_program": "S1 Paralel"
+  },
+  "03.05.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Farmasi - Ekstensi",
+    "educational_program": "S1 Ekstensi"
+  },
+  "03.02.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Fisika - Ekstensi",
+    "educational_program": "S1 Ekstensi"
+  },
+  "03.03.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Kimia - Ekstensi",
+    "educational_program": "S1 Ekstensi"
+  },
+  "04.05.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Apoteker",
+    "educational_program": "Profesi"
+  },
+  "02.04.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Biologi",
+    "educational_program": "S2"
+  },
+  "02.06.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Geografi",
+    "educational_program": "S2"
+  },
+  "08.05.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Herbal",
+    "educational_program": "S2"
+  },
+  "03.06.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Ilmu Bahan-bahan/Material",
+    "educational_program": "S2"
+  },
+  "04.02.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Ilmu Fisika",
+    "educational_program": "S2"
+  },
+  "05.05.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Ilmu Kefarmasian",
+    "educational_program": "S2"
+  },
+  "03.04.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Ilmu Kelautan",
+    "educational_program": "S2"
+  },
+  "04.03.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Ilmu Kimia",
+    "educational_program": "S2"
+  },
+  "02.01.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Matematika",
+    "educational_program": "S2"
+  },
+  "04.04.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Biologi",
+    "educational_program": "S3"
+  },
+  "04.06.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Ilmu Bahan-bahan/Material",
+    "educational_program": "S3"
+  },
+  "07.05.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Ilmu Farmasi",
+    "educational_program": "S3"
+  },
+  "08.02.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Ilmu Fisika",
+    "educational_program": "S3"
+  },
+  "05.03.03.01": {
+    "faculty": "Matematika dan Ilmu Pengetahuan Alam",
+    "study_program": "Ilmu Kimia",
+    "educational_program": "S3"
+  },
+  "01.05.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Arsitektur",
+    "educational_program": "S1 Reguler"
+  },
+  "05.05.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Arsitektur Interior",
+    "educational_program": "S1 Reguler"
+  },
+  "12.03.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Biomedik",
+    "educational_program": "S1 Reguler"
+  },
+  "01.03.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Elektro",
+    "educational_program": "S1 Reguler"
+  },
+  "01.07.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Industri",
+    "educational_program": "S1 Reguler"
+  },
+  "01.06.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Kimia",
+    "educational_program": "S1 Reguler"
+  },
+  "02.03.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Komputer",
+    "educational_program": "S1 Reguler"
+  },
+  "02.01.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Lingkungan",
+    "educational_program": "S1 Reguler"
+  },
+  "01.02.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Mesin",
+    "educational_program": "S1 Reguler"
+  },
+  "01.04.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Metalurgi dan Material",
+    "educational_program": "S1 Reguler"
+  },
+  "02.02.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Perkapalan",
+    "educational_program": "S1 Reguler"
+  },
+  "01.01.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Sipil",
+    "educational_program": "S1 Reguler"
+  },
+  "06.06.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknologi Bioproses",
+    "educational_program": "S1 Reguler"
+  },
+  "04.05.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Arsitektur - Intl",
+    "educational_program": "S1 Kls Internasional"
+  },
+  "04.03.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Elektro",
+    "educational_program": "S1 Kls Internasional"
+  },
+  "06.07.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Industri",
+    "educational_program": "S1 Kls Internasional"
+  },
+  "03.06.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Kimia",
+    "educational_program": "S1 Kls Internasional"
+  },
+  "04.02.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Mesin",
+    "educational_program": "S1 Kls Internasional"
+  },
+  "03.04.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Metalurgi dan Material",
+    "educational_program": "S1 Kls Internasional"
+  },
+  "04.01.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Sipil",
+    "educational_program": "S1 Kls Internasional"
+  },
+  "08.05.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Arsitektur",
+    "educational_program": "S1 Paralel"
+  },
+  "10.03.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Elektro",
+    "educational_program": "S1 Paralel"
+  },
+  "04.07.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Industri",
+    "educational_program": "S1 Paralel"
+  },
+  "07.06.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Kimia",
+    "educational_program": "S1 Paralel"
+  },
+  "08.01.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Lingkungan",
+    "educational_program": "S1 Paralel"
+  },
+  "07.02.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Mesin",
+    "educational_program": "S1 Paralel"
+  },
+  "06.04.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Metalurgi dan Material",
+    "educational_program": "S1 Paralel"
+  },
+  "07.01.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Sipil",
+    "educational_program": "S1 Paralel"
+  },
+  "02.05.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Arsitektur",
+    "educational_program": "S1 Ekstensi"
+  },
+  "03.03.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Elektro - Ekstensi",
+    "educational_program": "S1 Ekstensi"
+  },
+  "02.07.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Industri - Ekstensi",
+    "educational_program": "S1 Ekstensi"
+  },
+  "02.06.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Kimia - Ekstensi",
+    "educational_program": "S1 Ekstensi"
+  },
+  "03.02.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Mesin ",
+    "educational_program": "S1 Ekstensi"
+  },
+  "02.04.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Metalurgi dan Material - Ekstensi",
+    "educational_program": "S1 Ekstensi"
+  },
+  "03.01.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Sipil - Ekstensi",
+    "educational_program": "S1 Ekstensi"
+  },
+  "07.05.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Arsitek",
+    "educational_program": "Profesi"
+  },
+  "01.00.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Insinyur",
+    "educational_program": "Profesi"
+  },
+  "03.05.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Arsitektur",
+    "educational_program": "S2"
+  },
+  "06.03.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Opto Elektroteknika dan Aplikasi Laser",
+    "educational_program": "S2"
+  },
+  "05.03.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Elektro",
+    "educational_program": "S2"
+  },
+  "03.07.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Industri",
+    "educational_program": "S2"
+  },
+  "04.06.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Kimia",
+    "educational_program": "S2"
+  },
+  "05.02.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Mesin",
+    "educational_program": "S2"
+  },
+  "04.04.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Metalurgi dan Material",
+    "educational_program": "S2"
+  },
+  "05.01.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Sipil",
+    "educational_program": "S2"
+  },
+  "02.00.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Sistem Energi",
+    "educational_program": "S2"
+  },
+  "11.03.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknologi Biomedis",
+    "educational_program": "S2"
+  },
+  "09.03.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Elektro",
+    "educational_program": "S2 Kls Internasional"
+  },
+  "06.05.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Arsitektur",
+    "educational_program": "S3"
+  },
+  "07.03.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Opto Elektroteknika dan Aplikasi Laser",
+    "educational_program": "S3"
+  },
+  "08.03.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Elektro",
+    "educational_program": "S3"
+  },
+  "05.07.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Industri",
+    "educational_program": "S3"
+  },
+  "05.06.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Kimia",
+    "educational_program": "S3"
+  },
+  "06.02.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Mesin",
+    "educational_program": "S3"
+  },
+  "05.04.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Metalurgi dan Material",
+    "educational_program": "S3"
+  },
+  "06.01.04.01": {
+    "faculty": "Teknik",
+    "study_program": "Teknik Sipil",
+    "educational_program": "S3"
+  },
+  "01.00.05.01": {
+    "faculty": "Hukum",
+    "study_program": "Ilmu Hukum",
+    "educational_program": "S1 Reguler"
+  },
+  "07.00.05.01": {
+    "faculty": "Hukum",
+    "study_program": "Ilmu Hukum",
+    "educational_program": "S1 Kls Internasional"
+  },
+  "06.00.05.01": {
+    "faculty": "Hukum",
+    "study_program": "Ilmu Hukum",
+    "educational_program": "S1 Paralel"
+  },
+  "02.00.05.01": {
+    "faculty": "Hukum",
+    "study_program": "Ilmu Hukum - Ekstensi",
+    "educational_program": "S1 Ekstensi"
+  },
+  "03.00.05.01": {
+    "faculty": "Hukum",
+    "study_program": "Ilmu Hukum",
+    "educational_program": "S2"
+  },
+  "04.00.05.01": {
+    "faculty": "Hukum",
+    "study_program": "Kenotariatan",
+    "educational_program": "S2"
+  },
+  "05.00.05.01": {
+    "faculty": "Hukum",
+    "study_program": "Ilmu Hukum",
+    "educational_program": "S3"
+  },
+  "01.03.06.01": {
+    "faculty": "Ekonomi dan Bisnis",
+    "study_program": "Akuntansi",
+    "educational_program": "D3"
+  },
+  "02.03.06.01": {
+    "faculty": "Ekonomi dan Bisnis",
+    "study_program": "Akuntansi",
+    "educational_program": "S1 Reguler"
+  },
+  "08.01.06.01": {
+    "faculty": "Ekonomi dan Bisnis",
+    "study_program": "Bisnis Islam",
+    "educational_program": "S1 Reguler"
+  },
+  "01.01.06.01": {
+    "faculty": "Ekonomi dan Bisnis",
+    "study_program": "Ilmu Ekonomi",
+    "educational_program": "S1 Reguler"
+  },
+  "07.01.06.01": {
+    "faculty": "Ekonomi dan Bisnis",
+    "study_program": "Ilmu Ekonomi Islam",
+    "educational_program": "S1 Reguler"
+  },
+  "01.02.06.01": {
+    "faculty": "Ekonomi dan Bisnis",
+    "study_program": "Manajemen",
+    "educational_program": "S1 Reguler"
+  },
+  "04.03.06.01": {
+    "faculty": "Ekonomi dan Bisnis",
+    "study_program": "Akuntansi",
+    "educational_program": "S1 Kls Internasional"
+  },
+  "02.01.06.01": {
+    "faculty": "Ekonomi dan Bisnis",
+    "study_program": "Ilmu Ekonomi",
+    "educational_program": "S1 Kls Internasional"
+  },
+  "02.02.06.01": {
+    "faculty": "Ekonomi dan Bisnis",
+    "study_program": "Manajemen",
+    "educational_program": "S1 Kls Internasional"
+  },
+  "10.03.06.01": {
+    "faculty": "Ekonomi dan Bisnis",
+    "study_program": "Akuntansi",
+    "educational_program": "S1 Paralel"
+  },
+  "03.03.06.01": {
+    "faculty": "Ekonomi dan Bisnis",
+    "study_program": "Akuntansi",
+    "educational_program": "S1 Ekstensi"
+  },
+  "03.02.06.01": {
+    "faculty": "Ekonomi dan Bisnis",
+    "study_program": "Manajemen",
+    "educational_program": "S1 Ekstensi"
+  },
+  "05.03.06.01": {
+    "faculty": "Ekonomi dan Bisnis",
+    "study_program": "Akuntansi",
+    "educational_program": "Profesi"
+  },
+  "07.03.06.01": {
+    "faculty": "Ekonomi dan Bisnis",
+    "study_program": "Ilmu Akuntansi",
+    "educational_program": "S2"
+  },
+  "03.01.06.01": {
+    "faculty": "Ekonomi dan Bisnis",
+    "study_program": "Ilmu Ekonomi",
+    "educational_program": "S2"
+  },
+  "04.02.06.01": {
+    "faculty": "Ekonomi dan Bisnis",
+    "study_program": "Ilmu Manajemen",
+    "educational_program": "S2"
+  },
+  "09.03.06.01": {
+    "faculty": "Ekonomi dan Bisnis",
+    "study_program": "Magister Akuntansi",
+    "educational_program": "S2"
+  },
+  "06.03.06.01": {
+    "faculty": "Ekonomi dan Bisnis",
+    "study_program": "Magister Akuntansi",
+    "educational_program": "S2"
+  },
+  "09.01.06.01": {
+    "faculty": "Ekonomi dan Bisnis",
+    "study_program": "Magister Ekonomi Kependudukan dan Ketenagakerjaan",
+    "educational_program": "S2"
+  },
+  "05.02.06.01": {
+    "faculty": "Ekonomi dan Bisnis",
+    "study_program": "Magister Manajemen",
+    "educational_program": "S2"
+  },
+  "07.02.06.01": {
+    "faculty": "Ekonomi dan Bisnis",
+    "study_program": "Magister Manajemen",
+    "educational_program": "S2"
+  },
+  "04.01.06.01": {
+    "faculty": "Ekonomi dan Bisnis",
+    "study_program": "Magister Perencanaan dan Kebijakan Publik",
+    "educational_program": "S2"
+  },
+  "06.01.06.01": {
+    "faculty": "Ekonomi dan Bisnis",
+    "study_program": "Ilmu Ekonomi",
+    "educational_program": "S2 Kls Internasional"
+  },
+  "08.03.06.01": {
+    "faculty": "Ekonomi dan Bisnis",
+    "study_program": "Ilmu Akuntansi",
+    "educational_program": "S3"
+  },
+  "05.01.06.01": {
+    "faculty": "Ekonomi dan Bisnis",
+    "study_program": "Ilmu Ekonomi",
+    "educational_program": "S3"
+  },
+  "06.02.06.01": {
+    "faculty": "Ekonomi dan Bisnis",
+    "study_program": "Ilmu Manajemen",
+    "educational_program": "S3"
+  },
+  "02.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Bahasa Arab",
+    "educational_program": "D3"
+  },
+  "07.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Bahasa Belanda",
+    "educational_program": "D3"
+  },
+  "01.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Bahasa Cina",
+    "educational_program": "D3"
+  },
+  "04.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Bahasa Inggris",
+    "educational_program": "D3"
+  },
+  "03.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Bahasa Jepang",
+    "educational_program": "D3"
+  },
+  "06.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Bahasa Jerman",
+    "educational_program": "D3"
+  },
+  "05.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Bahasa Perancis",
+    "educational_program": "D3"
+  },
+  "01.03.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Manajemen Informasi dan Dokumen",
+    "educational_program": "D3"
+  },
+  "01.01.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Arkeologi",
+    "educational_program": "S1 Reguler"
+  },
+  "18.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Bahasa dan Kebudayaan Korea",
+    "educational_program": "S1 Reguler"
+  },
+  "01.02.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Ilmu Filsafat",
+    "educational_program": "S1 Reguler"
+  },
+  "02.03.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Ilmu Perpustakaan",
+    "educational_program": "S1 Reguler"
+  },
+  "01.06.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Ilmu Sejarah",
+    "educational_program": "S1 Reguler"
+  },
+  "08.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Sastra Arab",
+    "educational_program": "S1 Reguler"
+  },
+  "17.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Sastra Belanda",
+    "educational_program": "S1 Reguler"
+  },
+  "11.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Sastra Cina",
+    "educational_program": "S1 Reguler"
+  },
+  "10.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Sastra Daerah untuk Sastra Jawa",
+    "educational_program": "S1 Reguler"
+  },
+  "09.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Sastra Indonesia",
+    "educational_program": "S1 Reguler"
+  },
+  "13.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Sastra Inggris",
+    "educational_program": "S1 Reguler"
+  },
+  "12.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Sastra Jepang",
+    "educational_program": "S1 Reguler"
+  },
+  "15.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Sastra Jerman",
+    "educational_program": "S1 Reguler"
+  },
+  "14.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Sastra Perancis",
+    "educational_program": "S1 Reguler"
+  },
+  "16.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Sastra Rusia",
+    "educational_program": "S1 Reguler"
+  },
+  "27.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Bahasa dan Kebudayaan Korea",
+    "educational_program": "S1 Paralel"
+  },
+  "05.03.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Ilmu Perpustakaan",
+    "educational_program": "S1 Paralel"
+  },
+  "20.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Sastra Arab",
+    "educational_program": "S1 Paralel"
+  },
+  "26.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Sastra Belanda",
+    "educational_program": "S1 Paralel"
+  },
+  "19.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Sastra Cina",
+    "educational_program": "S1 Paralel"
+  },
+  "22.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Sastra Inggris",
+    "educational_program": "S1 Paralel"
+  },
+  "21.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Sastra Jepang",
+    "educational_program": "S1 Paralel"
+  },
+  "24.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Sastra Jerman",
+    "educational_program": "S1 Paralel"
+  },
+  "23.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Sastra Perancis",
+    "educational_program": "S1 Paralel"
+  },
+  "04.03.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Ilmu Perpustakaan",
+    "educational_program": "S1 Ekstensi"
+  },
+  "01.04.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Penerjemahan Bahasa Arab",
+    "educational_program": "Spesialis 1"
+  },
+  "02.04.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Penerjemahan Bahasa Inggris",
+    "educational_program": "Spesialis 1"
+  },
+  "03.04.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Penerjemahan Bahasa Perancis",
+    "educational_program": "Spesialis 1"
+  },
+  "02.01.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Arkeologi",
+    "educational_program": "S2"
+  },
+  "28.00.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Asia Tenggara",
+    "educational_program": "S2"
+  },
+  "02.02.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Filsafat",
+    "educational_program": "S2"
+  },
+  "04.04.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Ilmu Linguistik",
+    "educational_program": "S2"
+  },
+  "03.03.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Ilmu Perpustakaan",
+    "educational_program": "S2"
+  },
+  "02.06.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Ilmu Sejarah",
+    "educational_program": "S2"
+  },
+  "01.05.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Ilmu Susastra",
+    "educational_program": "S2"
+  },
+  "03.01.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Arkeologi",
+    "educational_program": "S3"
+  },
+  "03.02.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Ilmu Filsafat",
+    "educational_program": "S3"
+  },
+  "05.04.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Ilmu Linguistik",
+    "educational_program": "S3"
+  },
+  "03.06.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Ilmu Sejarah",
+    "educational_program": "S3"
+  },
+  "02.05.07.01": {
+    "faculty": "Ilmu Pengetahuan Budaya",
+    "study_program": "Ilmu Susastra",
+    "educational_program": "S3"
+  },
+  "01.00.08.01": {
+    "faculty": "Psikologi",
+    "study_program": "Psikologi",
+    "educational_program": "S1 Reguler"
+  },
+  "02.00.08.01": {
+    "faculty": "Psikologi",
+    "study_program": "Psikologi",
+    "educational_program": "S1 Kls Internasional"
+  },
+  "07.00.08.01": {
+    "faculty": "Psikologi",
+    "study_program": "Psikologi",
+    "educational_program": "S1 Paralel"
+  },
+  "03.00.08.01": {
+    "faculty": "Psikologi",
+    "study_program": "Psikologi",
+    "educational_program": "S1 Ekstensi"
+  },
+  "04.00.08.01": {
+    "faculty": "Psikologi",
+    "study_program": "Ilmu Psikologi",
+    "educational_program": "S2"
+  },
+  "06.00.08.01": {
+    "faculty": "Psikologi",
+    "study_program": "Psikologi Profesi",
+    "educational_program": "S2"
+  },
+  "08.00.08.01": {
+    "faculty": "Psikologi",
+    "study_program": "Psikologi Terapan",
+    "educational_program": "S2"
+  },
+  "05.00.08.01": {
+    "faculty": "Psikologi",
+    "study_program": "Psikologi",
+    "educational_program": "S3"
+  },
+  "01.03.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Administrasi Asuransi dan Aktuaria",
+    "educational_program": "D3"
+  },
+  "02.03.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Administrasi Keuangan dan Perbankan",
+    "educational_program": "D3"
+  },
+  "03.03.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Administrasi Perkantoran dan Sekretaris",
+    "educational_program": "D3"
+  },
+  "04.03.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Administrasi Perpajakan",
+    "educational_program": "D3"
+  },
+  "01.01.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Komunikasi",
+    "educational_program": "D3"
+  },
+  "01.07.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Pariwisata",
+    "educational_program": "D3"
+  },
+  "02.07.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Antropologi Sosial",
+    "educational_program": "S1 Reguler"
+  },
+  "05.03.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Administrasi Fiskal",
+    "educational_program": "S1 Reguler"
+  },
+  "06.03.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Administrasi Negara",
+    "educational_program": "S1 Reguler"
+  },
+  "07.03.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Administrasi Niaga",
+    "educational_program": "S1 Reguler"
+  },
+  "01.08.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Hubungan Internasional",
+    "educational_program": "S1 Reguler"
+  },
+  "01.06.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Kesejahteraan Sosial",
+    "educational_program": "S1 Reguler"
+  },
+  "02.01.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Komunikasi",
+    "educational_program": "S1 Reguler"
+  },
+  "01.02.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Politik",
+    "educational_program": "S1 Reguler"
+  },
+  "01.05.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Kriminologi",
+    "educational_program": "S1 Reguler"
+  },
+  "01.04.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Sosiologi",
+    "educational_program": "S1 Reguler"
+  },
+  "07.01.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Komunikasi",
+    "educational_program": "S1 Kls Internasional"
+  },
+  "13.03.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Administrasi Fiskal",
+    "educational_program": "S1 Paralel"
+  },
+  "14.03.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Administrasi Negara",
+    "educational_program": "S1 Paralel"
+  },
+  "15.03.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Administrasi Niaga",
+    "educational_program": "S1 Paralel"
+  },
+  "06.01.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Komunikasi",
+    "educational_program": "S1 Paralel"
+  },
+  "05.02.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Politik",
+    "educational_program": "S1 Paralel"
+  },
+  "05.05.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Kriminologi",
+    "educational_program": "S1 Paralel"
+  },
+  "08.03.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Administrasi Fiskal - Ekstensi",
+    "educational_program": "S1 Ekstensi"
+  },
+  "09.03.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Administrasi Negara - Ekstensi",
+    "educational_program": "S1 Ekstensi"
+  },
+  "10.03.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Administrasi Niaga - Ekstensi",
+    "educational_program": "S1 Ekstensi"
+  },
+  "03.01.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Komunikasi - Ekstensi",
+    "educational_program": "S1 Ekstensi"
+  },
+  "02.02.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Politik ",
+    "educational_program": "S1 Ekstensi"
+  },
+  "02.05.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Kriminologi - Ekstensi",
+    "educational_program": "S1 Ekstensi"
+  },
+  "03.07.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Antropologi",
+    "educational_program": "S2"
+  },
+  "11.03.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Administrasi",
+    "educational_program": "S2"
+  },
+  "02.08.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Hubungan Internasional",
+    "educational_program": "S2"
+  },
+  "02.06.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Kesejahteraan Sosial",
+    "educational_program": "S2"
+  },
+  "04.01.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Komunikasi",
+    "educational_program": "S2"
+  },
+  "03.02.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Politik",
+    "educational_program": "S2"
+  },
+  "03.08.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Kajian Terorisme dalam Keamanan Internasional",
+    "educational_program": "S2"
+  },
+  "03.05.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Kriminologi",
+    "educational_program": "S2"
+  },
+  "02.04.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Sosiologi",
+    "educational_program": "S2"
+  },
+  "04.07.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Antropologi",
+    "educational_program": "S3"
+  },
+  "12.03.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Administrasi",
+    "educational_program": "S3"
+  },
+  "03.06.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Kesejahteraan Sosial",
+    "educational_program": "S3"
+  },
+  "05.01.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Komunikasi",
+    "educational_program": "S3"
+  },
+  "04.02.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Ilmu Politik",
+    "educational_program": "S3"
+  },
+  "04.05.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Kriminologi",
+    "educational_program": "S3"
+  },
+  "03.04.09.01": {
+    "faculty": "Ilmu Sosial dan Ilmu Politik",
+    "study_program": "Sosiologi",
+    "educational_program": "S3"
+  },
+  "01.01.10.01": {
+    "faculty": "Kesehatan Masyarakat",
+    "study_program": "Asuransi Kesehatan",
+    "educational_program": "D3"
+  },
+  "01.07.10.01": {
+    "faculty": "Kesehatan Masyarakat",
+    "study_program": "Kehumasan Pelayanan Kesehatan",
+    "educational_program": "D3"
+  },
+  "01.06.10.01": {
+    "faculty": "Kesehatan Masyarakat",
+    "study_program": "Keselamatan dan Kesehatan Kerja",
+    "educational_program": "D3"
+  },
+  "02.01.10.01": {
+    "faculty": "Kesehatan Masyarakat",
+    "study_program": "Manajemen Informasi Kesehatan dan Rekam Medis",
+    "educational_program": "D3"
+  },
+  "03.01.10.01": {
+    "faculty": "Kesehatan Masyarakat",
+    "study_program": "Manajemen Pelayanan Rumah Sakit",
+    "educational_program": "D3"
+  },
+  "02.07.10.01": {
+    "faculty": "Kesehatan Masyarakat",
+    "study_program": "Promosi dan Pendidikan Kesehatan",
+    "educational_program": "D3"
+  },
+  "06.00.10.01": {
+    "faculty": "Kesehatan Masyarakat",
+    "study_program": "Kesehatan Lingkungan",
+    "educational_program": "S1 Reguler"
+  },
+  "01.00.10.01": {
+    "faculty": "Kesehatan Masyarakat",
+    "study_program": "Kesehatan Masyarakat",
+    "educational_program": "S1 Reguler"
+  },
+  "03.06.10.01": {
+    "faculty": "Kesehatan Masyarakat",
+    "study_program": "Keselamatan dan Kesehatan Kerja",
+    "educational_program": "S1 Reguler"
+  },
+  "01.04.10.01": {
+    "faculty": "Kesehatan Masyarakat",
+    "study_program": "Studi Gizi",
+    "educational_program": "S1 Reguler"
+  },
+  "02.00.10.01": {
+    "faculty": "Kesehatan Masyarakat",
+    "study_program": "Kesehatan Masyarakat - Ekstensi",
+    "educational_program": "S1 Ekstensi"
+  },
+  "04.01.10.01": {
+    "faculty": "Kesehatan Masyarakat",
+    "study_program": "Administrasi Rumah Sakit",
+    "educational_program": "S2"
+  },
+  "01.03.10.01": {
+    "faculty": "Kesehatan Masyarakat",
+    "study_program": "Epidemiologi",
+    "educational_program": "S2"
+  },
+  "03.00.10.01": {
+    "faculty": "Kesehatan Masyarakat",
+    "study_program": "Ilmu Kesehatan Masyarakat",
+    "educational_program": "S2"
+  },
+  "02.06.10.01": {
+    "faculty": "Kesehatan Masyarakat",
+    "study_program": "Keselamatan dan Kesehatan Kerja",
+    "educational_program": "S2"
+  },
+  "04.00.10.01": {
+    "faculty": "Kesehatan Masyarakat",
+    "study_program": "Ilmu Kesehatan Masyarakat",
+    "educational_program": "S2 Kls Internasional"
+  },
+  "02.03.10.01": {
+    "faculty": "Kesehatan Masyarakat",
+    "study_program": "Epidemiologi",
+    "educational_program": "S3"
+  },
+  "05.00.10.01": {
+    "faculty": "Kesehatan Masyarakat",
+    "study_program": "Ilmu Kesehatan Masyarakat",
+    "educational_program": "S3"
+  },
+  "01.00.12.01": {
+    "faculty": "Ilmu Komputer",
+    "study_program": "Ilmu Komputer",
+    "educational_program": "S1 Reguler"
+  },
+  "06.00.12.01": {
+    "faculty": "Ilmu Komputer",
+    "study_program": "Sistem Informasi",
+    "educational_program": "S1 Reguler"
+  },
+  "02.00.12.01": {
+    "faculty": "Ilmu Komputer",
+    "study_program": "Ilmu Komputer",
+    "educational_program": "S1 Kls Internasional"
+  },
+  "09.00.12.01": {
+    "faculty": "Ilmu Komputer",
+    "study_program": "Ilmu Komputer",
+    "educational_program": "S1 Paralel"
+  },
+  "08.00.12.01": {
+    "faculty": "Ilmu Komputer",
+    "study_program": "Sistem Informasi",
+    "educational_program": "S1 Paralel"
+  },
+  "07.00.12.01": {
+    "faculty": "Ilmu Komputer",
+    "study_program": "Sistem Informasi - Ekstensi",
+    "educational_program": "S1 Ekstensi"
+  },
+  "03.00.12.01": {
+    "faculty": "Ilmu Komputer",
+    "study_program": "Ilmu Komputer",
+    "educational_program": "S2"
+  },
+  "04.00.12.01": {
+    "faculty": "Ilmu Komputer",
+    "study_program": "Teknologi Informasi",
+    "educational_program": "S2"
+  },
+  "05.00.12.01": {
+    "faculty": "Ilmu Komputer",
+    "study_program": "Ilmu Komputer",
+    "educational_program": "S3"
+  },
+  "01.00.13.01": {
+    "faculty": "Ilmu Keperawatan",
+    "study_program": "Ilmu Keperawatan",
+    "educational_program": "S1 Reguler"
+  },
+  "02.00.13.01": {
+    "faculty": "Ilmu Keperawatan",
+    "study_program": "Ilmu Keperawatan - Ekstensi",
+    "educational_program": "S1 Ekstensi"
+  },
+  "03.00.13.01": {
+    "faculty": "Ilmu Keperawatan",
+    "study_program": "Profesi Keperawatan",
+    "educational_program": "Profesi"
+  },
+  "10.00.13.01": {
+    "faculty": "Ilmu Keperawatan",
+    "study_program": "Spesialis Keperawatan Anak",
+    "educational_program": "Spesialis 1"
+  },
+  "08.00.13.01": {
+    "faculty": "Ilmu Keperawatan",
+    "study_program": "Spesialis Keperawatan Jiwa",
+    "educational_program": "Spesialis 1"
+  },
+  "05.00.13.01": {
+    "faculty": "Ilmu Keperawatan",
+    "study_program": "Spesialis Keperawatan Komunitas",
+    "educational_program": "Spesialis 1"
+  },
+  "06.00.13.01": {
+    "faculty": "Ilmu Keperawatan",
+    "study_program": "Spesialis Keperawatan Maternitas",
+    "educational_program": "Spesialis 1"
+  },
+  "07.00.13.01": {
+    "faculty": "Ilmu Keperawatan",
+    "study_program": "Spesialis Keperawatan Medikal Bedah",
+    "educational_program": "Spesialis 1"
+  },
+  "04.00.13.01": {
+    "faculty": "Ilmu Keperawatan",
+    "study_program": "Ilmu Keperawatan",
+    "educational_program": "S2"
+  },
+  "09.00.13.01": {
+    "faculty": "Ilmu Keperawatan",
+    "study_program": "Ilmu Keperawatan",
+    "educational_program": "S3"
+  },
+  "06.00.14.01": {
+    "faculty": "Pascasarjana",
+    "study_program": "Kajian Gender",
+    "educational_program": "S2"
+  },
+  "01.00.14.01": {
+    "faculty": "Pascasarjana",
+    "study_program": "Kajian Ilmu Kepolisian",
+    "educational_program": "S2"
+  },
+  "02.00.14.01": {
+    "faculty": "Pascasarjana",
+    "study_program": "Kajian Ilmu Lingkungan",
+    "educational_program": "S2"
+  },
+  "03.00.14.01": {
+    "faculty": "Pascasarjana",
+    "study_program": "Kajian Kependudukan dan Ketenagakerjaan",
+    "educational_program": "S2"
+  },
+  "04.00.14.01": {
+    "faculty": "Pascasarjana",
+    "study_program": "Kajian Ketahanan Nasional",
+    "educational_program": "S2"
+  },
+  "05.00.14.01": {
+    "faculty": "Pascasarjana",
+    "study_program": "Kajian Pengembangan Perkotaan",
+    "educational_program": "S2"
+  },
+  "07.00.14.01": {
+    "faculty": "Pascasarjana",
+    "study_program": "Kajian Wilayah Amerika",
+    "educational_program": "S2"
+  },
+  "08.00.14.01": {
+    "faculty": "Pascasarjana",
+    "study_program": "Kajian Wilayah Eropa",
+    "educational_program": "S2"
+  },
+  "09.00.14.01": {
+    "faculty": "Pascasarjana",
+    "study_program": "Kajian Wilayah Jepang",
+    "educational_program": "S2"
+  },
+  "10.00.14.01": {
+    "faculty": "Pascasarjana",
+    "study_program": "Kajian Wilayah Timur Tengah Islam",
+    "educational_program": "S2"
+  },
+  "12.00.14.01": {
+    "faculty": "Pascasarjana",
+    "study_program": "Teknologi Biomedis",
+    "educational_program": "S2"
+  },
+  "11.00.14.01": {
+    "faculty": "Pascasarjana",
+    "study_program": "Ilmu Lingkungan",
+    "educational_program": "S3"
+  },
+  "07.00.15.01": {
+    "faculty": "Pendidikan Vokasi",
+    "study_program": "Administrasi Asuransi dan Aktuaria",
+    "educational_program": "D3"
+  },
+  "08.00.15.01": {
+    "faculty": "Pendidikan Vokasi",
+    "study_program": "Administrasi Keuangan dan Perbankan",
+    "educational_program": "D3"
+  },
+  "09.00.15.01": {
+    "faculty": "Pendidikan Vokasi",
+    "study_program": "Administrasi Perkantoran dan Sekretari",
+    "educational_program": "D3"
+  },
+  "10.00.15.01": {
+    "faculty": "Pendidikan Vokasi",
+    "study_program": "Administrasi Perpajakan",
+    "educational_program": "D3"
+  },
+  "04.00.15.01": {
+    "faculty": "Pendidikan Vokasi",
+    "study_program": "Akuntansi",
+    "educational_program": "D3"
+  },
+  "02.00.15.01": {
+    "faculty": "Pendidikan Vokasi",
+    "study_program": "Fisioterapi",
+    "educational_program": "D3"
+  },
+  "06.00.15.01": {
+    "faculty": "Pendidikan Vokasi",
+    "study_program": "Komunikasi",
+    "educational_program": "D3"
+  },
+  "05.00.15.01": {
+    "faculty": "Pendidikan Vokasi",
+    "study_program": "Manajemen Informasi dan Dokumen",
+    "educational_program": "D3"
+  },
+  "03.00.15.01": {
+    "faculty": "Pendidikan Vokasi",
+    "study_program": "Okupasi Terapi",
+    "educational_program": "D3"
+  },
+  "11.00.15.01": {
+    "faculty": "Pendidikan Vokasi",
+    "study_program": "Pariwisata",
+    "educational_program": "D3"
+  },
+  "01.00.15.01": {
+    "faculty": "Pendidikan Vokasi",
+    "study_program": "Perumahsakitan",
+    "educational_program": "D3"
+  },
+  "01.00.17.01": {
+    "faculty": "Farmasi",
+    "study_program": "Farmasi",
+    "educational_program": "S1 Reguler"
+  },
+  "02.00.17.01": {
+    "faculty": "Farmasi",
+    "study_program": "Farmasi",
+    "educational_program": "S1 Paralel"
+  },
+  "03.00.17.01": {
+    "faculty": "Farmasi",
+    "study_program": "Apoteker",
+    "educational_program": "Profesi"
+  },
+  "04.00.17.01": {
+    "faculty": "Farmasi",
+    "study_program": "Farmasi",
+    "educational_program": "S2"
+  },
+  "05.00.17.01": {
+    "faculty": "Farmasi",
+    "study_program": "Herbal",
+    "educational_program": "S2"
+  },
+  "06.00.17.01": {
+    "faculty": "Farmasi",
+    "study_program": "Ilmu Farmasi",
+    "educational_program": "S3"
+  },
+  "01.00.18.01": {
+    "faculty": "Ilmu Administrasi",
+    "study_program": "Ilmu Administrasi Fiskal",
+    "educational_program": "S1 Reguler"
+  },
+  "02.00.18.01": {
+    "faculty": "Ilmu Administrasi",
+    "study_program": "Ilmu Administrasi Negara",
+    "educational_program": "S1 Reguler"
+  },
+  "03.00.18.01": {
+    "faculty": "Ilmu Administrasi",
+    "study_program": "Ilmu Administrasi Niaga",
+    "educational_program": "S1 Reguler"
+  },
+  "04.00.18.01": {
+    "faculty": "Ilmu Administrasi",
+    "study_program": "Ilmu Administrasi Fiskal",
+    "educational_program": "S1 Paralel"
+  },
+  "05.00.18.01": {
+    "faculty": "Ilmu Administrasi",
+    "study_program": "Ilmu Administrasi Negara",
+    "educational_program": "S1 Paralel"
+  },
+  "06.00.18.01": {
+    "faculty": "Ilmu Administrasi",
+    "study_program": "Ilmu Administrasi Niaga",
+    "educational_program": "S1 Paralel"
+  },
+  "07.00.18.01": {
+    "faculty": "Ilmu Administrasi",
+    "study_program": "Ilmu Administrasi Fiskal",
+    "educational_program": "S1 Ekstensi"
+  },
+  "08.00.18.01": {
+    "faculty": "Ilmu Administrasi",
+    "study_program": "Ilmu Administrasi Negara",
+    "educational_program": "S1 Ekstensi"
+  },
+  "09.00.18.01": {
+    "faculty": "Ilmu Administrasi",
+    "study_program": "Ilmu Administrasi Niaga",
+    "educational_program": "S1 Ekstensi"
+  },
+  "10.00.18.01": {
+    "faculty": "Ilmu Administrasi",
+    "study_program": "Ilmu Administrasi",
+    "educational_program": "S2"
+  },
+  "11.00.18.01": {
+    "faculty": "Ilmu Administrasi",
+    "study_program": "Ilmu Administrasi",
+    "educational_program": "S3"
+  },
+  "01.00.19.01": {
+    "faculty": "Ilmu Lingkungan",
+    "study_program": "Ilmu Lingkungan",
+    "educational_program": "S2"
+  },
+  "02.00.19.01": {
+    "faculty": "Ilmu Lingkungan",
+    "study_program": "Ilmu Lingkungan",
+    "educational_program": "S3"
+  },
+  "03.00.20.01": {
+    "faculty": "Kajian Stratejik dan Global",
+    "study_program": "Kajian Gender",
+    "educational_program": "S2"
+  },
+  "02.00.20.01": {
+    "faculty": "Kajian Stratejik dan Global",
+    "study_program": "Kajian Ilmu Kepolisian",
+    "educational_program": "S2"
+  },
+  "01.00.20.01": {
+    "faculty": "Kajian Stratejik dan Global",
+    "study_program": "Kajian Ketahanan Nasional",
+    "educational_program": "S2"
+  },
+  "08.00.20.01": {
+    "faculty": "Kajian Stratejik dan Global",
+    "study_program": "Kajian Pengembangan Perkotaan",
+    "educational_program": "S2"
+  },
+  "09.00.20.01": {
+    "faculty": "Kajian Stratejik dan Global",
+    "study_program": "Kajian Terorisme",
+    "educational_program": "S2"
+  },
+  "04.00.20.01": {
+    "faculty": "Kajian Stratejik dan Global",
+    "study_program": "Kajian Wilayah Amerika",
+    "educational_program": "S2"
+  },
+  "05.00.20.01": {
+    "faculty": "Kajian Stratejik dan Global",
+    "study_program": "Kajian Wilayah Eropa",
+    "educational_program": "S2"
+  },
+  "06.00.20.01": {
+    "faculty": "Kajian Stratejik dan Global",
+    "study_program": "Kajian Wilayah Jepang",
+    "educational_program": "S2"
+  },
+  "07.00.20.01": {
+    "faculty": "Kajian Stratejik dan Global",
+    "study_program": "Kajian Wilayah Timur Tengah dan Islam",
+    "educational_program": "S2"
+  }
+}
