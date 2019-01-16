@@ -22,7 +22,8 @@ seperti berikut.
 ### Cara pakai
 
 - Pastikan Anda sudah menginstal [`selenium`][selenium] untuk Python
-  beserta [ChromeDriver][chromedriver].
+  beserta [`ChromeDriver`][chromedriver] atau [`geckodriver`][geckodriver]
+  (untuk *driver* lainnya, silakan konfigurasi sendiri).
 - Atur *environment variable* `UI_USERNAME` dan `UI_PASSWORD` sesuai
   dengan nama pengguna dan kata sandi akun UI Anda, atau ubah
   `username` dan `password` yang ada di dalam [`kodoru.py`][kodoru-py].
@@ -31,6 +32,12 @@ seperti berikut.
 
 ```shell
 $ python kodoru.py
+```
+
+Jika ingin menggunakan Firefox, gunakan perintah berikut.
+
+```shell
+$ python kodoru.py firefox
 ```
 
 - Tunggu hingga selesai dan hasil akan muncul berupa tiga berkas berikut.
@@ -49,6 +56,7 @@ Jika Anda hanya tertarik pada data hasilnya, silakan lihat direktori
 [katalon]: https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid
 [selenium]: https://pypi.org/project/selenium
 [chromedriver]: http://chromedriver.chromium.org
+[geckodriver]: https://github.com/mozilla/geckodriver/releases
 [kodoru-py]: kodoru.py#L44
 [kodoru_id]: dump/kodoru_id.json
 [kodoru_en]: dump/kodoru_en.json

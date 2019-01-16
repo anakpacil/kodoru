@@ -2,7 +2,7 @@
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select
 
-import json, os, unittest
+import json, os, sys, time, unittest
 
 
 class Kodoru(unittest.TestCase):
@@ -17,10 +17,14 @@ class Kodoru(unittest.TestCase):
             "maj": "Major"
         }
     }
+    WEBDRIVER = "chrome"
 
     def setUp(self):
-        self.driver = webdriver.Chrome()
-        self.driver.implicitly_wait(3)
+        if Kodoru.WEBDRIVER == "firefox":
+            self.driver = webdriver.Firefox()
+        else:
+            self.driver = webdriver.Chrome()
+        self.driver.implicitly_wait(30)
         self.base_url = "https://academic.ui.ac.id/"
         self.verificationErrors = []
 
@@ -42,7 +46,6 @@ class Kodoru(unittest.TestCase):
                     "/following::select[1]".format(selector)
                 )
             )
-
         driver.get(self.base_url + "/main/Schedule/IndexOthers")
         faculty_dropdown = select_dropdown(Kodoru.STRINGS[language]["fac"])
 
@@ -72,6 +75,7 @@ class Kodoru(unittest.TestCase):
         self.authenticate()
 
         for lang in data:
+            time.sleep(1)
             driver.get(self.base_url + 'main/System/Language?lang=' + lang)
             data[lang] = self.scrape(lang)
 
@@ -87,6 +91,9 @@ class Kodoru(unittest.TestCase):
 
     def tearDown(self):
         self.assertEqual([], self.verificationErrors)
+        self.driver.quit()
 
 if __name__ == "__main__":
+    if len(sys.argv) > 1:
+        Kodoru.WEBDRIVER = sys.argv.pop().lower()
     unittest.main()
